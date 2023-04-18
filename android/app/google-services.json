@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "409359077819",
+    "project_id": "led-controller-803fc",
+    "storage_bucket": "led-controller-803fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409359077819:android:501f0dda094a9e811f749e",
+        "android_client_info": {
+          "package_name": "com.example.led_controller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409359077819-c9f4sm9pkm1jmo604pgp5erf59j0n3ur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz4fEMrl5lee-EM7_50kfs54hRQRxoYuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409359077819-c9f4sm9pkm1jmo604pgp5erf59j0n3ur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
